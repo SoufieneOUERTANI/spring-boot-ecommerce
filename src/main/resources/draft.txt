@@ -1,1 +1,2 @@
-http://localhost:8080/api/products/search/findByNameContaining?name=python
+http://localhost:7654/api/products/search/findByNameContaining?name=python
+http://localhost:7654/api/products?page=3&size=10
